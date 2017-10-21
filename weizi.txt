@@ -3,3 +3,5 @@ zheshi yige weizh
 wosjlj dkfd lsddf
 
 第一次修改
+
+git checkout -- file
