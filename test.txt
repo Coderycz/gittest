@@ -2,3 +2,6 @@ git is a version control system
 git is free software
 add a new file
 chang.me
+
+tianjia yighanwenzhigit 
+dfksfksdjf
